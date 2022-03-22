@@ -61,6 +61,33 @@ header{
   margin-top: 10px;
 }
 
+.popup{
+  background: rgb(18, 179, 179);
+  border-radius: 16px;
+  padding: 12px 20px;
+  height: 99%;
+}
+
+.popup-content {
+  margin: auto;
+  background: #fff0;
+  width: 50%;
+  padding: 5px;
+  border: 1px solid #d7d7d700;
+}
+
+.popup-title{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+
+.popup-text{
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
+
 .content-container {
   background-color: #a200d6;
 }
